@@ -1,0 +1,53 @@
+#card1 {
+    margin: 0 auto; /* Added */
+    margin-top:60px;
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: #ec407a;
+    display:none;
+}
+
+#card2 {
+    margin: 0 auto; /* Added */
+    margin-top:60px;
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: #42a5f5;
+    display:none;
+}
+
+#card3 {
+    margin: 0 auto; /* Added */
+    margin-top:60px;
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: #7e57c2;
+    display:none;
+
+}
+
+#card4 {
+    margin: 0 auto; /* Added */
+    margin-top:60px;
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    background-color: #7cb342;
+    display:none;
+}
+
+#Question {
+    font-size: 150%;
+}
+
+
+#Emotional_Card_Submit {
+    background-color: #ec407a;
+}
+
+#Neglect_Card_Submit {
+    background-color: #42a5f5;
+}
+
+#Financial_Card_Submit {
+    background-color:#7e57c2;
+}

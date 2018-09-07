@@ -1,0 +1,18 @@
+﻿
+
+#mainContainer{
+ 
+    margin-top: 8%;
+    color: black;
+    text-align: left;
+}
+
+input{
+	border: 2px solid #000000;
+    border-radius:20px;
+}
+#abuseText{
+	color: black;
+	margin-left: 15%;
+
+}
